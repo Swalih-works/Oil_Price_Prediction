@@ -63,5 +63,7 @@ The developed forecasting models successfully captured underlying trends in crud
 - Integrate real-time oil price APIs.
 - Experiment with advanced forecasting techniques such as ARIMA, SARIMA, Prophet, and LSTM.
 - Build an interactive dashboard for real-time predictions and insights.
+
+
 - GitHub: https://github.com/Swalih-works
 - LinkedIn: https://www.linkedin.com/in/mohammedswalih
