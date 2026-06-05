@@ -65,5 +65,5 @@ The developed forecasting models successfully captured underlying trends in crud
 - Build an interactive dashboard for real-time predictions and insights.
 
 
-- GitHub: https://github.com/Swalih-works
-- LinkedIn: https://www.linkedin.com/in/mohammedswalih
+## GitHub: https://github.com/Swalih-works
+## LinkedIn: https://www.linkedin.com/in/mohammedswalih
